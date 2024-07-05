@@ -14,7 +14,7 @@ I did my PhD and first Postdoc at the [Institute of Evolutionary Biology](https:
 ## Education
 
 - PhD in Biomedicine at Institute of Evolutionary Biology (UPF-CSIC), Barcelona, Spain (2020)
-    - Title: "Genomic analysis of wild and captive chimpanzee populations from non-invasive samples using target capture methods".
+    - [Genomic analysis of wild and captive chimpanzee populations from non-invasive samples using target capture methods](http://hdl.handle.net/10803/670317)
       Co-supervised by Dr. Tomas Marquès-Bonet and Dr. Esther Lizano
 - MSc in Bioinformatics at Universitat Pompeu Fabra, Barcelona, Spain (2016)
 - BSc in Human Biology at Universitat Pompeu Fabra, Barcelona, Spain (2014)
