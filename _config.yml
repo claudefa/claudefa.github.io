@@ -21,8 +21,9 @@ author: Claudia Fontsere
 
 navbar-links:
   About Me: "aboutme"
-  Research: "research"
+  #Research: "research"
   Publications: "publications"
+  CV: "cv"
 
 
 ################
@@ -134,10 +135,10 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
+navbar-col: "#bdcc9b"
 navbar-text-col: "#404040"
 navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
+footer-col: "#bdcc9b"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
