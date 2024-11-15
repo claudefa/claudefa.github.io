@@ -6,6 +6,12 @@ layout: page
 
 Below you can find the list of publications so far, also check my [google scholar page](https://scholar.google.com/citations?user=Pr0GY8gAAAAJ&hl=ca)
 
+**22.**	Hermosilla-Albala N, Silva FE, Cuadros-Espinoza S, **Fontsere C**, […], Marques-Bonet T, Boubli JP. Whole genomes of Amazonian uakari monkeys reveal complex connectivity and fast differentiation driven by high environmental dynamism. Communications Biology. 2024; [Link](https://doi.org/10.1038/s42003-024-06901-3)
+
+**21.**	Battilani D, Gargiulo R, Caniglia R, Fabbri E,  Ramos-Madrigal J,  **Fontsere C**, […] Vernesi C. Beyond population size: whole-genome data reveal bottleneck legacies in the peninsular Italian wolf. Journal of Heredity. 2024; [Link](https://doi.org/10.1093/jhered/esae041)
+
+**20.**	Sandova-Velasco M, Dudchenko O, Rodríguez JA, Pérez Estrada C, Dehasque M, **Fontsere C**, […] Marti-Renom MA, Gilbert MTP, Lieberman Aiden E. Three-dimensional genome architecture persists in a 52,000-year-old woolly mammoth skin sample. Cell. 2024; [Link](https://doi.org/10.1101/2023.06.30.547175)
+
 **19.**	 Yee SW, Ferrández-Peral L, Alentorn P, **Fontsere C**, […] Giacomini K. Illuminating the Function of the Orphan Transporter, SLC22A10 in Humans and Other Primates. *Nature Communications*. 2024; [Link](https://doi.org/10.1038/s41467-024-48569-7)
 
 **18.**	Rasmussen L, **Fontsere C**, Soto-Calderón ID, Guillen R, Savage A, Hansen AJ, Hvilsom C, Gilbert MTP. Assessing the genetic composition of cotton‐top tamarins (Saguinus oedipus) before sweeping anthropogenic impact. *Molecular Ecology*. 2023; [Link](https://doi.org/10.1111/mec.17130)
